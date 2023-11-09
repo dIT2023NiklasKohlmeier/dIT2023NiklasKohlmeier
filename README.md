@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niklas Kohlmeier
 - 👀 I’m interested in new tech
 - 🌱 I’m currently learning c++
-- 📫 How to reach me : disord(klinz)
+- 📫 How to reach me : discord(klinz)
 
 <!---
 dIT2023NiklasKohlmeier/dIT2023NiklasKohlmeier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
